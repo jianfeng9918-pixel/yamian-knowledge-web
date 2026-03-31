@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <rect width="1400" height="900" fill="#FAF6F0"/>
+  <text x="90" y="110" font-size="68" font-weight="700" fill="#1F1F1F" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">发现问题框架</text>
+  <text x="90" y="170" font-size="30" fill="#1F1F1F" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">把外部变化和内部现实放到一张图里，收束成值得推进的问题判断。</text>
+  <g transform="translate(700 500)" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" text-anchor="middle">
+    <rect x="-420" y="-220" width="260" height="160" rx="24" fill="#DDEEFF"/><text x="-290" y="-135" font-size="40" font-weight="700" fill="#1F1F1F">外部变化</text><text x="-290" y="-90" font-size="24" fill="#57504A">市场 / 渠道 / 趋势</text>
+    <rect x="160" y="-220" width="260" height="160" rx="24" fill="#F7D8C7"/><text x="290" y="-135" font-size="40" font-weight="700" fill="#1F1F1F">竞争关系</text><text x="290" y="-90" font-size="24" fill="#57504A">竞品 / 替代 / 差异</text>
+    <rect x="-420" y="100" width="260" height="160" rx="24" fill="#DCE7C5"/><text x="-290" y="185" font-size="40" font-weight="700" fill="#1F1F1F">自身条件</text><text x="-290" y="230" font-size="24" fill="#57504A">产品 / 资源 / 能力</text>
+    <rect x="160" y="100" width="260" height="160" rx="24" fill="#F4E3B2"/><text x="290" y="185" font-size="40" font-weight="700" fill="#1F1F1F">用户需求</text><text x="290" y="230" font-size="24" fill="#57504A">场景 / 动机 / 反馈</text>
+    <rect x="-170" y="-60" width="340" height="120" rx="30" fill="#FFFFFF" stroke="#1F1F1F" stroke-width="5"/><text x="0" y="-5" font-size="44" font-weight="700" fill="#D94841">问题判断</text><text x="0" y="35" font-size="22" fill="#57504A">哪一个系统问题最值得进入</text>
+  </g>
+</svg>

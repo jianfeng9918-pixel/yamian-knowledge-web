@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <rect width="1400" height="900" fill="#FAF6F0"/>
+  <g font-family="Microsoft YaHei, Noto Sans SC, sans-serif">
+    <text x="90" y="170" font-size="42" fill="#1F1F1F">让消费者识别感知 品牌独特印象</text>
+    <text x="90" y="285" font-size="88" font-weight="700" fill="#D94841">品牌传建识别塔</text>
+    <text x="90" y="350" font-size="34" fill="#1F1F1F">（语言识别 / 视觉识别 / 服务识别）</text>
+    <text x="970" y="405" font-size="76" font-weight="700" fill="#1F1F1F">品牌</text>
+    <text x="970" y="475" font-size="64" font-weight="700" fill="#1F1F1F">识别</text>
+  </g>
+  <g>
+    <circle cx="980" cy="205" r="120" fill="#E5453E"/>
+    <path d="M980 205 L980 85 A120 120 0 0 1 1084 265 Z" fill="#FAF6F0"/>
+    <text x="980" y="195" text-anchor="middle" font-size="42" font-weight="700" fill="#FFFFFF" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">服务识别</text>
+    <circle cx="760" cy="650" r="130" fill="#E5453E"/>
+    <path d="M760 650 L860 650 A130 130 0 0 1 760 520 Z" fill="#FAF6F0"/>
+    <text x="760" y="660" text-anchor="middle" font-size="42" font-weight="700" fill="#FFFFFF" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">语言识别</text>
+    <circle cx="1180" cy="650" r="130" fill="#E5453E"/>
+    <path d="M1180 650 L1110 540 A130 130 0 0 1 1310 650 Z" fill="#FAF6F0"/>
+    <text x="1180" y="660" text-anchor="middle" font-size="42" font-weight="700" fill="#FFFFFF" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">视觉识别</text>
+  </g>
+  <g font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="28" fill="#1F1F1F">
+    <text x="1140" y="210">• 产品 + 场景</text>
+    <text x="1140" y="250">• 服务解决方案</text>
+    <text x="560" y="605">• 品牌名</text>
+    <text x="560" y="645">• 品类名</text>
+    <text x="560" y="685">• 传播 SLOGAN</text>
+    <text x="560" y="725">• 服务口号</text>
+    <text x="1300" y="605">• 中文/英文/图形符号</text>
+    <text x="1300" y="645">• 品牌标准色与海报</text>
+    <text x="1300" y="685">• 沟通角色 IP</text>
+    <text x="1300" y="725">• 产品与卖点物料</text>
+  </g>
+</svg>

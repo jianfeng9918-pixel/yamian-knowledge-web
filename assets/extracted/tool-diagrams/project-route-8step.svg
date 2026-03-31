@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="960" viewBox="0 0 1600 960">
+  <rect width="1600" height="960" fill="#FAF6F0"/>
+  <g fill="#1F1F1F" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="700">
+    <text x="40" y="120" font-size="62" fill="#C08A12">4段</text>
+    <text x="40" y="360" font-size="62" fill="#C08A12">8节</text>
+    <text x="40" y="560" font-size="54" fill="#C08A12">24步</text>
+    <text x="40" y="610" font-size="24" font-weight="400" fill="#7A746E">WBS关键步骤分解</text>
+    <text x="40" y="850" font-size="54" fill="#C08A12">关键工具</text>
+    <text x="40" y="900" font-size="24" font-weight="400" fill="#7A746E">提高对话效率</text>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-width="18">
+    <path d="M250 220 C340 150 410 150 500 220 S660 290 750 220 S910 150 1000 220 S1160 290 1250 220 S1410 150 1510 220" stroke="#53BEEA"/>
+    <path d="M250 450 C340 520 410 520 500 450 S660 380 750 450 S910 520 1000 450 S1160 380 1250 450 S1410 520 1510 450" stroke="#E5524F"/>
+  </g>
+  <g fill="#1F1F1F" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="700" text-anchor="middle">
+    <text x="355" y="120" font-size="66">背景与需求</text>
+    <text x="655" y="120" font-size="66">定义与设想</text>
+    <text x="955" y="120" font-size="66">设计与原型</text>
+    <text x="1270" y="120" font-size="66">迭代与运营</text>
+  </g>
+  <g fill="#D94841" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="700" text-anchor="middle">
+    <text x="315" y="360" font-size="86">起</text>
+    <text x="655" y="360" font-size="86">承</text>
+    <text x="980" y="360" font-size="86">转</text>
+    <text x="1460" y="360" font-size="86">合</text>
+  </g>
+  <g font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="700" text-anchor="middle">
+    <rect x="200" y="500" width="160" height="90" rx="24" fill="#BDD9F3"/><text x="280" y="560" font-size="42">了解背景</text>
+    <rect x="390" y="500" width="160" height="90" rx="24" fill="#BDD9F3"/><text x="470" y="560" font-size="42">发现需求</text>
+    <rect x="610" y="500" width="160" height="90" rx="24" fill="#FFD65A"/><text x="690" y="560" font-size="42">定义问题</text>
+    <rect x="800" y="500" width="160" height="90" rx="24" fill="#FFD65A"/><text x="880" y="560" font-size="42">设想策略</text>
+    <rect x="1030" y="500" width="160" height="90" rx="24" fill="#FFD8C1"/><text x="1110" y="560" font-size="42">设计转化</text>
+    <rect x="1220" y="500" width="160" height="90" rx="24" fill="#FFD8C1"/><text x="1300" y="560" font-size="42">原型测试</text>
+    <rect x="1440" y="500" width="120" height="90" rx="24" fill="#D6EBBD"/><text x="1500" y="560" font-size="38">服务迭代</text>
+    <rect x="1440" y="610" width="120" height="90" rx="24" fill="#D6EBBD"/><text x="1500" y="670" font-size="38">落地运营</text>
+  </g>
+  <g fill="#1F1F1F" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="28">
+    <text x="210" y="670">定目标</text><text x="210" y="710">组团队</text><text x="210" y="750">去调研</text>
+    <text x="400" y="670">看现状</text><text x="400" y="710">换视角</text><text x="400" y="750">写简报</text>
+    <text x="620" y="670">筛痛点</text><text x="620" y="710">盘资源</text><text x="620" y="750">定问题</text>
+    <text x="810" y="670">树认知</text><text x="810" y="710">理价值</text><text x="810" y="750">建识别</text>
+    <text x="1035" y="670">布旅程</text><text x="1035" y="710">搭场景</text><text x="1035" y="750">立风格</text>
+    <text x="1225" y="670">做原型</text><text x="1225" y="710">邀内测</text><text x="1225" y="750">推市场</text>
+    <text x="1450" y="770">调体验 / 成模型 / 评目标 / 接运营</text>
+  </g>
+  <g fill="#4A4A4A" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24">
+    <text x="230" y="870">项目任务书 / 四宫格筛选图 / 品牌简报 / 用户旅程图</text>
+    <text x="640" y="870">商业设想漏斗 / 品牌价值天秤图 / 品牌传建识别塔</text>
+    <text x="1045" y="870">品牌建设识别塔 / 用户旅程图 / 新消费场景原型</text>
+    <text x="1375" y="870">四面模块 / 服务蓝图 / BSIS 手册</text>
+  </g>
+</svg>

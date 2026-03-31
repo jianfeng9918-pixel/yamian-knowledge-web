@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+  <rect width="1200" height="560" fill="#f7f1e8"/>
+  <text x="60" y="78" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="42" font-weight="700" fill="#1f1f1f">茶饮品牌观察：常见强项与常见薄弱项</text>
+  <text x="60" y="118" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" fill="#666">这张图不是在说某一个品牌，而是在帮助读者先看到：茶饮行业通常强在哪里，又最容易弱在哪里。</text>
+  <g font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="28" fill="#1f1f1f">
+    <text x="60" y="196">产品创新与上新</text>
+    <text x="60" y="256">品牌传播热度</text>
+    <text x="60" y="316">渠道覆盖与触达</text>
+    <text x="60" y="376">品牌建设一致性</text>
+    <text x="60" y="436">品牌运营承接</text>
+    <text x="60" y="496">人 / 组织协同</text>
+  </g>
+  <g>
+    <rect x="340" y="168" width="690" height="26" rx="13" fill="#e7ddd1"/>
+    <rect x="340" y="168" width="610" height="26" rx="13" fill="#c85b3a"/>
+    <rect x="340" y="228" width="690" height="26" rx="13" fill="#e7ddd1"/>
+    <rect x="340" y="228" width="620" height="26" rx="13" fill="#c85b3a"/>
+    <rect x="340" y="288" width="690" height="26" rx="13" fill="#e7ddd1"/>
+    <rect x="340" y="288" width="580" height="26" rx="13" fill="#c85b3a"/>
+    <rect x="340" y="348" width="690" height="26" rx="13" fill="#e7ddd1"/>
+    <rect x="340" y="348" width="430" height="26" rx="13" fill="#c85b3a"/>
+    <rect x="340" y="408" width="690" height="26" rx="13" fill="#e7ddd1"/>
+    <rect x="340" y="408" width="360" height="26" rx="13" fill="#c85b3a"/>
+    <rect x="340" y="468" width="690" height="26" rx="13" fill="#e7ddd1"/>
+    <rect x="340" y="468" width="320" height="26" rx="13" fill="#c85b3a"/>
+  </g>
+  <g font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" fill="#5b5b5b">
+    <text x="1050" y="190">常见强项</text>
+    <text x="1050" y="250">常见强项</text>
+    <text x="1050" y="310">常见强项</text>
+    <text x="1050" y="370">容易被稀释</text>
+    <text x="1050" y="430">最易失配</text>
+    <text x="1050" y="490">最易跟不上</text>
+  </g>
+  <text x="60" y="536" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" fill="#7b736a">说明：茶饮最容易把产品、传播和渠道做强，但如果建设、运营和组织协同跟不上，系统会很快稀释。</text>
+</svg>

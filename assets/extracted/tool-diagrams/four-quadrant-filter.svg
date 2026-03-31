@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <rect width="1400" height="900" fill="#FAF6F0"/>
+  <g font-family="Microsoft YaHei, Noto Sans SC, sans-serif" fill="#1F1F1F">
+    <text x="100" y="120" font-size="68" font-weight="700">四宫格筛选图</text>
+    <text x="100" y="180" font-size="30">先把机会、问题、方向放进同一张图里，再决定什么值得进入下一步。</text>
+    <text x="700" y="820" font-size="28" text-anchor="middle">横轴：推进可行性</text>
+    <text x="80" y="460" font-size="28" transform="rotate(-90 80,460)">纵轴：价值潜力</text>
+  </g>
+  <g stroke="#B8B0A6" stroke-width="4" fill="none">
+    <line x1="260" y1="240" x2="1180" y2="240"/>
+    <line x1="260" y1="680" x2="1180" y2="680"/>
+    <line x1="260" y1="240" x2="260" y2="680"/>
+    <line x1="1180" y1="240" x2="1180" y2="680"/>
+    <line x1="720" y1="240" x2="720" y2="680"/>
+    <line x1="260" y1="460" x2="1180" y2="460"/>
+  </g>
+  <g font-family="Microsoft YaHei, Noto Sans SC, sans-serif" text-anchor="middle">
+    <rect x="300" y="280" width="360" height="140" rx="24" fill="#F5D2C9"/>
+    <text x="480" y="335" font-size="40" font-weight="700" fill="#1F1F1F">高价值 / 低可行</text>
+    <text x="480" y="390" font-size="26" fill="#56504A">先保留，待验证</text>
+    <rect x="760" y="280" width="360" height="140" rx="24" fill="#D9EED2"/>
+    <text x="940" y="335" font-size="40" font-weight="700" fill="#1F1F1F">高价值 / 高可行</text>
+    <text x="940" y="390" font-size="26" fill="#56504A">优先推进</text>
+    <rect x="300" y="500" width="360" height="140" rx="24" fill="#EEE4D6"/>
+    <text x="480" y="555" font-size="40" font-weight="700" fill="#1F1F1F">低价值 / 低可行</text>
+    <text x="480" y="610" font-size="26" fill="#56504A">直接放下</text>
+    <rect x="760" y="500" width="360" height="140" rx="24" fill="#F8E7B0"/>
+    <text x="940" y="555" font-size="40" font-weight="700" fill="#1F1F1F">低价值 / 高可行</text>
+    <text x="940" y="610" font-size="26" fill="#56504A">避免“容易做”误导</text>
+  </g>
+</svg>

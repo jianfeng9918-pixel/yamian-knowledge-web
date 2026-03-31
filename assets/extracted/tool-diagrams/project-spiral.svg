@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#FAF6F0"/>
+  <g fill="none" stroke-linecap="round" stroke-width="20">
+    <path d="M60 250 C180 170 260 170 380 250 S580 330 700 250 S900 170 1020 250 S1220 330 1340 250 S1480 170 1580 250" stroke="#53BEEA"/>
+    <path d="M60 650 C180 730 260 730 380 650 S580 570 700 650 S900 730 1020 650 S1220 570 1340 650 S1480 730 1580 650" stroke="#E5524F"/>
+    <path d="M60 650 C180 730 260 730 380 650 S580 570 700 650 S900 730 1020 650 S1220 570 1340 650 S1480 730 1580 650" stroke="#53BEEA" opacity="0.08"/>
+  </g>
+  <g stroke="#BDB7B0" stroke-width="8" stroke-linecap="round">
+    <path d="M330 430 L360 400 L400 400"/>
+    <path d="M650 430 L680 400 L720 400"/>
+    <path d="M970 430 L1000 400 L1040 400"/>
+    <path d="M1290 430 L1320 400 L1360 400"/>
+    <path d="M330 470 L360 500 L400 500"/>
+    <path d="M650 470 L680 500 L720 500"/>
+    <path d="M970 470 L1000 500 L1040 500"/>
+    <path d="M1290 470 L1320 500 L1360 500"/>
+  </g>
+  <g fill="#D94841" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="700" text-anchor="middle">
+    <text x="165" y="470" font-size="150">起</text>
+    <text x="565" y="470" font-size="150">承</text>
+    <text x="965" y="470" font-size="150">转</text>
+    <text x="1370" y="470" font-size="150">合</text>
+  </g>
+  <g fill="#1F1F1F" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="700" text-anchor="middle">
+    <text x="180" y="760" font-size="62">背景与需求</text>
+    <text x="580" y="760" font-size="62">定义与设想</text>
+    <text x="980" y="760" font-size="62">设计与原型</text>
+    <text x="1380" y="760" font-size="62">落地与迭代</text>
+  </g>
+  <g fill="#57BDE7" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" text-anchor="middle">
+    <path d="M390 710 L390 610" stroke="#57BDE7" stroke-width="8"/>
+    <path d="M390 585 L365 630 L415 630 Z" fill="#57BDE7"/>
+    <path d="M810 710 L810 610" stroke="#57BDE7" stroke-width="8"/>
+    <path d="M810 585 L785 630 L835 630 Z" fill="#57BDE7"/>
+    <path d="M1295 710 L1295 610" stroke="#57BDE7" stroke-width="8"/>
+    <path d="M1295 585 L1270 630 L1320 630 Z" fill="#57BDE7"/>
+    <text x="390" y="820" font-size="44" fill="#1F1F1F">问题点</text>
+    <text x="810" y="820" font-size="44" fill="#1F1F1F">概念点</text>
+    <text x="1295" y="820" font-size="44" fill="#1F1F1F">测试点</text>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <rect width="1400" height="900" fill="#FAF6F0"/>
+  <text x="100" y="120" font-size="68" font-weight="700" fill="#1F1F1F" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">品牌价值天秤图</text>
+  <text x="100" y="180" font-size="30" fill="#1F1F1F" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">同时判断消费者价值、品牌价值和经营价值，找到真正成立的价值焦点。</text>
+  <g stroke="#1F1F1F" stroke-width="10" fill="none" stroke-linecap="round">
+    <line x1="700" y1="260" x2="700" y2="610"/>
+    <line x1="420" y1="350" x2="980" y2="350"/>
+    <line x1="520" y1="610" x2="880" y2="610"/>
+  </g>
+  <g fill="#D94841">
+    <circle cx="420" cy="350" r="18"/><circle cx="980" cy="350" r="18"/><circle cx="700" cy="260" r="18"/>
+  </g>
+  <g font-family="Microsoft YaHei, Noto Sans SC, sans-serif" text-anchor="middle">
+    <rect x="210" y="410" width="240" height="150" rx="28" fill="#DDEEFF"/>
+    <text x="330" y="475" font-size="42" font-weight="700" fill="#1F1F1F">消费者价值</text>
+    <text x="330" y="525" font-size="26" fill="#57504A">为什么用户愿意选</text>
+    <rect x="580" y="120" width="240" height="110" rx="28" fill="#F5D5CB"/>
+    <text x="700" y="185" font-size="42" font-weight="700" fill="#1F1F1F">品牌价值</text>
+    <text x="700" y="700" font-size="26" fill="#57504A">三端平衡后，才能成为主线</text>
+    <rect x="950" y="410" width="240" height="150" rx="28" fill="#DDE8C8"/>
+    <text x="1070" y="475" font-size="42" font-weight="700" fill="#1F1F1F">经营价值</text>
+    <text x="1070" y="525" font-size="26" fill="#57504A">为什么组织承接得住</text>
+  </g>
+  <g font-family="Microsoft YaHei, Noto Sans SC, sans-serif" fill="#1F1F1F" font-size="28">
+    <text x="210" y="770">理性价值：为什么有用</text>
+    <text x="560" y="770">感性价值：为什么喜欢</text>
+    <text x="930" y="770">象征价值：为什么愿意表达自己</text>
+  </g>
+</svg>

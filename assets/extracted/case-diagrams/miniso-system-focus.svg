@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+  <rect width="1200" height="560" fill="#f7f1e8"/>
+  <text x="60" y="78" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="42" font-weight="700" fill="#1f1f1f">名创优品六要素强弱示意</text>
+  <text x="60" y="118" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" fill="#666">它的强，不是商品多，而是让“低进入成本”被产品、识别、传播和渠道一起放大。</text>
+  <g font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="28" fill="#1f1f1f">
+    <text x="60" y="196">产品</text>
+    <text x="60" y="256">品牌建设</text>
+    <text x="60" y="316">品牌传播</text>
+    <text x="60" y="376">渠道</text>
+    <text x="60" y="436">品牌运营</text>
+    <text x="60" y="496">人</text>
+  </g>
+  <g>
+    <rect x="210" y="168" width="820" height="26" rx="13" fill="#e7ddd1"/>
+    <rect x="210" y="168" width="710" height="26" rx="13" fill="#c85b3a"/>
+    <rect x="210" y="228" width="820" height="26" rx="13" fill="#e7ddd1"/>
+    <rect x="210" y="228" width="700" height="26" rx="13" fill="#c85b3a"/>
+    <rect x="210" y="288" width="820" height="26" rx="13" fill="#e7ddd1"/>
+    <rect x="210" y="288" width="680" height="26" rx="13" fill="#c85b3a"/>
+    <rect x="210" y="348" width="820" height="26" rx="13" fill="#e7ddd1"/>
+    <rect x="210" y="348" width="660" height="26" rx="13" fill="#c85b3a"/>
+    <rect x="210" y="408" width="820" height="26" rx="13" fill="#e7ddd1"/>
+    <rect x="210" y="408" width="560" height="26" rx="13" fill="#c85b3a"/>
+    <rect x="210" y="468" width="820" height="26" rx="13" fill="#e7ddd1"/>
+    <rect x="210" y="468" width="430" height="26" rx="13" fill="#c85b3a"/>
+  </g>
+  <g font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" fill="#5b5b5b">
+    <text x="1050" y="190">最强</text>
+    <text x="1050" y="250">很强</text>
+    <text x="1050" y="310">很强</text>
+    <text x="1050" y="370">放大器</text>
+    <text x="1050" y="430">维持新鲜</text>
+    <text x="1050" y="490">理解入口</text>
+  </g>
+  <text x="60" y="536" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" fill="#7b736a">说明：读名创优品时，先看它怎样降低“进入成本”，再看它怎样维持风格一致。</text>
+</svg>

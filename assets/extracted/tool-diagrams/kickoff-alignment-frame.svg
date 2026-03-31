@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <rect width="1400" height="900" fill="#FAF6F0"/>
+  <text x="90" y="110" font-size="68" font-weight="700" fill="#1F1F1F" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">项目启动会对齐框架</text>
+  <text x="90" y="170" font-size="30" fill="#1F1F1F" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">把启动会从排期层拉回判断层，先讲清项目为什么存在、先动什么、谁来承担什么。</text>
+  <g font-family="Microsoft YaHei, Noto Sans SC, sans-serif" text-anchor="middle">
+    <rect x="120" y="260" width="250" height="140" rx="26" fill="#F7D8C7"/><text x="245" y="335" font-size="42" font-weight="700" fill="#1F1F1F">项目目的</text><text x="245" y="375" font-size="24" fill="#57504A">为什么做</text>
+    <rect x="420" y="260" width="250" height="140" rx="26" fill="#DDEEFF"/><text x="545" y="335" font-size="42" font-weight="700" fill="#1F1F1F">核心问题</text><text x="545" y="375" font-size="24" fill="#57504A">到底解决什么</text>
+    <rect x="720" y="260" width="250" height="140" rx="26" fill="#DCE7C5"/><text x="845" y="335" font-size="42" font-weight="700" fill="#1F1F1F">边界条件</text><text x="845" y="375" font-size="24" fill="#57504A">先不做什么</text>
+    <rect x="1020" y="260" width="250" height="140" rx="26" fill="#F4E3B2"/><text x="1145" y="335" font-size="42" font-weight="700" fill="#1F1F1F">优先顺序</text><text x="1145" y="375" font-size="24" fill="#57504A">先动哪个节点</text>
+    <rect x="280" y="500" width="300" height="160" rx="26" fill="#FFFFFF" stroke="#1F1F1F" stroke-width="4"/><text x="430" y="575" font-size="42" font-weight="700" fill="#1F1F1F">角色分工</text><text x="430" y="620" font-size="24" fill="#57504A">谁判断 / 谁执行 / 谁承接</text>
+    <rect x="820" y="500" width="300" height="160" rx="26" fill="#FFFFFF" stroke="#1F1F1F" stroke-width="4"/><text x="970" y="575" font-size="42" font-weight="700" fill="#1F1F1F">下一步动作</text><text x="970" y="620" font-size="24" fill="#57504A">会后立即进入哪条推进链</text>
+  </g>
+</svg>

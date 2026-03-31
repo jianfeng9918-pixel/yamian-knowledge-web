@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#FAF6F0"/>
+  <text x="80" y="110" font-size="68" font-weight="700" fill="#1F1F1F" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">商业模式画布</text>
+  <text x="80" y="165" font-size="30" fill="#1F1F1F" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">把品牌价值、资源、交付和经营关系放在一张图里一起看。</text>
+  <g stroke="#B8B0A6" stroke-width="4" fill="none">
+    <rect x="80" y="220" width="1440" height="580"/>
+    <line x1="300" y1="220" x2="300" y2="800"/>
+    <line x1="520" y1="220" x2="520" y2="800"/>
+    <line x1="1080" y1="220" x2="1080" y2="800"/>
+    <line x1="1300" y1="220" x2="1300" y2="800"/>
+    <line x1="80" y1="520" x2="1520" y2="520"/>
+    <line x1="720" y1="220" x2="720" y2="520"/>
+    <line x1="880" y1="220" x2="880" y2="520"/>
+  </g>
+  <g font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" fill="#1F1F1F">
+    <text x="190" y="275" text-anchor="middle">关键伙伴</text>
+    <text x="410" y="275" text-anchor="middle">关键活动</text>
+    <text x="630" y="275" text-anchor="middle">价值主张</text>
+    <text x="800" y="275" text-anchor="middle">顾客关系</text>
+    <text x="980" y="275" text-anchor="middle">触达渠道</text>
+    <text x="1190" y="275" text-anchor="middle">目标客群</text>
+    <text x="690" y="575" text-anchor="middle">成本结构</text>
+    <text x="1190" y="575" text-anchor="middle">收入来源</text>
+    <text x="410" y="575" text-anchor="middle">关键资源</text>
+  </g>
+  <g font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" fill="#4C4742">
+    <text x="110" y="340">• 谁帮助品牌持续交付价值</text>
+    <text x="110" y="380">• 哪些伙伴决定效率与质量</text>
+    <text x="330" y="340">• 哪些动作必须做对</text>
+    <text x="330" y="380">• 哪些动作最消耗资源</text>
+    <text x="550" y="340">• 用户为什么选择你</text>
+    <text x="550" y="380">• 品牌最关键的成立理由</text>
+    <text x="740" y="340">• 如何形成持续进入</text>
+    <text x="740" y="380">• 怎样把一次进入变复购</text>
+    <text x="900" y="340">• 在哪里被看见</text>
+    <text x="900" y="380">• 通过什么场景被进入</text>
+    <text x="1110" y="340">• 最先为谁服务</text>
+    <text x="1110" y="380">• 谁最愿意进入</text>
+    <text x="330" y="640">• 哪些资源必须优先配置</text>
+    <text x="330" y="680">• 组织能不能稳定承接</text>
+    <text x="550" y="640">• 成本放在哪</text>
+    <text x="550" y="680">• 哪些投入最值得坚持</text>
+    <text x="1050" y="640">• 收入如何形成</text>
+    <text x="1050" y="680">• 模式如何稳定跑通</text>
+  </g>
+</svg>

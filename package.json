@@ -1,0 +1,12 @@
+{
+  "name": "yamian-knowledge-preview",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "marked": "^16.4.0"
+  }
+}

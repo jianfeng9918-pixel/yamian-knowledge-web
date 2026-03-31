@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#FAF6F0"/>
+  <text x="80" y="110" font-size="68" font-weight="700" fill="#1F1F1F" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">顾客旅程图</text>
+  <text x="80" y="170" font-size="30" fill="#1F1F1F" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">把用户从第一次知道到再次进入的关键节点放在一条时间线上看清楚。</text>
+  <g stroke="#B8B0A6" stroke-width="4" fill="none">
+    <line x1="140" y1="500" x2="1480" y2="500"/>
+  </g>
+  <g fill="#53BEEA">
+    <circle cx="220" cy="500" r="20"/><circle cx="460" cy="500" r="20"/><circle cx="700" cy="500" r="20"/>
+    <circle cx="940" cy="500" r="20"/><circle cx="1180" cy="500" r="20"/><circle cx="1420" cy="500" r="20"/>
+  </g>
+  <g font-family="Microsoft YaHei, Noto Sans SC, sans-serif" text-anchor="middle" fill="#1F1F1F">
+    <text x="220" y="430" font-size="36" font-weight="700">认知</text>
+    <text x="460" y="430" font-size="36" font-weight="700">进入</text>
+    <text x="700" y="430" font-size="36" font-weight="700">选择</text>
+    <text x="940" y="430" font-size="36" font-weight="700">体验</text>
+    <text x="1180" y="430" font-size="36" font-weight="700">复购</text>
+    <text x="1420" y="430" font-size="36" font-weight="700">推荐</text>
+    <text x="220" y="560" font-size="24">从哪里知道你</text>
+    <text x="460" y="560" font-size="24">为什么愿意进来</text>
+    <text x="700" y="560" font-size="24">为什么愿意下单</text>
+    <text x="940" y="560" font-size="24">是否感到一致与惊喜</text>
+    <text x="1180" y="560" font-size="24">为什么愿意再次回来</text>
+    <text x="1420" y="560" font-size="24">是否愿意转介绍</text>
+  </g>
+  <path d="M220 700 C340 640 430 640 460 680 S650 780 700 700 S900 600 940 660 S1150 760 1180 700 S1380 620 1420 650" fill="none" stroke="#D94841" stroke-width="10" stroke-linecap="round"/>
+  <text x="120" y="705" font-size="26" fill="#1F1F1F" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">情绪曲线</text>
+</svg>

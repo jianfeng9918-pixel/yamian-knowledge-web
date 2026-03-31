@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>&#x4E9A;&#x9762;&#x77E5;&#x8BC6;&#x5E93;</title>
+    <meta
+      name="description"
+      content="&#x4E9A;&#x9762;&#x77E5;&#x8BC6;&#x5E93;&#x672C;&#x5730;&#x6B63;&#x5F0F;&#x7248;&#x9884;&#x89C8;&#x3002;&#x4EE5;&#x54C1;&#x724C;&#x4E0E;&#x5171;&#x521B;&#x4E3A;&#x4E3B;&#x8F74;&#xFF0C;&#x7EC4;&#x7EC7;&#x54C1;&#x724C;&#x5B9A;&#x4E49;&#x3001;&#x54C1;&#x724C;&#x4F20;&#x5EFA;&#x7CFB;&#x7EDF;&#x3001;&#x4EA7;&#x54C1;&#x843D;&#x5730;&#x3001;&#x6848;&#x4F8B;&#x4E0E;&#x5DE5;&#x5177;&#x3002;">
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="site-header">
+        <button class="brand-anchor" id="brandHomeButton" type="button" aria-label="&#x56DE;&#x5230;&#x9996;&#x9875;">
+          <span class="brand-mark">
+            <img id="brandLogo" alt="&#x4E9A;&#x9762;">
+          </span>
+          <span class="brand-copy">
+            <span class="brand-kicker">YAMIAN KNOWLEDGE</span>
+            <strong>&#x4E9A;&#x9762;&#x77E5;&#x8BC6;&#x5E93;</strong>
+          </span>
+        </button>
+
+        <nav class="top-nav" aria-label="&#x4E3B;&#x5BFC;&#x822A;">
+          <button data-route="#/" type="button">&#x9996;&#x9875;</button>
+          <button data-route="#/brand" type="button">&#x54C1;&#x724C;</button>
+          <button data-route="#/co-create" type="button">&#x5171;&#x521B;</button>
+          <button data-route="#/product" type="button">&#x4EA7;&#x54C1;</button>
+          <button data-doc="10_品牌/40_品牌案例/50_案例库索引" type="button">&#x6848;&#x4F8B;</button>
+          <button data-doc="10_品牌/50_品牌工具/60_工具库索引" type="button">&#x5DE5;&#x5177;</button>
+        </nav>
+
+        <div class="header-tools">
+          <label class="search-field" for="searchInput">
+            <span>&#x641C;&#x7D22;</span>
+            <input id="searchInput" type="search" placeholder="&#x8F93;&#x5165;&#x6807;&#x9898;&#x3001;&#x5173;&#x952E;&#x8BCD;&#x3001;&#x7AE0;&#x8282;&#x540D;">
+          </label>
+          <label class="internal-toggle" for="internalToggle">
+            <input id="internalToggle" type="checkbox">
+            <span>&#x5185;&#x90E8;&#x6A21;&#x5F0F;</span>
+          </label>
+        </div>
+      </header>
+
+      <div class="site-layout">
+        <aside class="sidebar">
+          <section class="sidebar-card sidebar-stats">
+            <div>
+              <span>&#x603B;&#x6587;&#x6863;</span>
+              <strong id="statTotal">0</strong>
+            </div>
+            <div>
+              <span>&#x516C;&#x5F00;&#x6587;&#x6863;</span>
+              <strong id="statPublic">0</strong>
+            </div>
+            <div>
+              <span>&#x5185;&#x90E8;&#x6587;&#x6863;</span>
+              <strong id="statInternal">0</strong>
+            </div>
+          </section>
+
+          <section class="sidebar-card" id="focusPanel">
+            <div class="sidebar-title">&#x91CD;&#x70B9;&#x76EE;&#x5F55;</div>
+            <div id="focusContent" class="focus-links"></div>
+          </section>
+
+          <section class="sidebar-card" id="searchPanel" hidden>
+            <div class="sidebar-title">&#x641C;&#x7D22;&#x7ED3;&#x679C;</div>
+            <div id="searchResults" class="search-results"></div>
+          </section>
+
+          <section class="sidebar-card">
+            <div class="sidebar-title">&#x77E5;&#x8BC6;&#x76EE;&#x5F55;</div>
+            <nav id="sidebarTree" class="sidebar-tree" aria-label="&#x77E5;&#x8BC6;&#x76EE;&#x5F55;&#x6811;"></nav>
+          </section>
+        </aside>
+
+        <main class="main-stage">
+          <div id="viewRoot"></div>
+        </main>
+      </div>
+    </div>
+
+    <script src="./site-data.js"></script>
+    <script src="./asset-manifest.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

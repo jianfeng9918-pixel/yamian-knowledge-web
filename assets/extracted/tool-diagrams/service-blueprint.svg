@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#FAF6F0"/>
+  <text x="80" y="110" font-size="68" font-weight="700" fill="#1F1F1F" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">服务蓝图</text>
+  <text x="80" y="170" font-size="30" fill="#1F1F1F" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">把用户感知到的前台体验，与后台流程、角色和资源放到一张图上看清楚。</text>
+  <g stroke="#B8B0A6" stroke-width="3" fill="none">
+    <rect x="180" y="240" width="1280" height="520"/>
+    <line x1="180" y1="340" x2="1460" y2="340"/>
+    <line x1="180" y1="440" x2="1460" y2="440"/>
+    <line x1="180" y1="560" x2="1460" y2="560"/>
+    <line x1="180" y1="660" x2="1460" y2="660"/>
+    <line x1="460" y1="240" x2="460" y2="760"/>
+    <line x1="740" y1="240" x2="740" y2="760"/>
+    <line x1="1020" y1="240" x2="1020" y2="760"/>
+    <line x1="1240" y1="240" x2="1240" y2="760"/>
+  </g>
+  <g font-family="Microsoft YaHei, Noto Sans SC, sans-serif" fill="#1F1F1F">
+    <text x="70" y="305" font-size="28">用户动作</text>
+    <text x="70" y="405" font-size="28">前台触点</text>
+    <text x="70" y="525" font-size="28">后台动作</text>
+    <text x="70" y="625" font-size="28">支持系统</text>
+    <text x="70" y="725" font-size="28">改进重点</text>
+    <text x="310" y="210" font-size="28" text-anchor="middle">知道你</text>
+    <text x="600" y="210" font-size="28" text-anchor="middle">进入你</text>
+    <text x="880" y="210" font-size="28" text-anchor="middle">体验你</text>
+    <text x="1130" y="210" font-size="28" text-anchor="middle">再次进入</text>
+    <text x="1350" y="210" font-size="28" text-anchor="middle">推荐你</text>
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" fill="#FCF9F4"/>
+  <path d="M84 70C25 190 20 530 84 650" stroke="#35302B" stroke-width="1.4"/>
+  <path d="M282 360H390" stroke="#222222" stroke-width="1.5"/>
+  <path d="M478 360H588" stroke="#222222" stroke-width="1.5"/>
+  <path d="M648 360H760" stroke="#222222" stroke-width="1.5"/>
+  <path d="M846 360H934" stroke="#222222" stroke-width="1.5"/>
+  <path d="M600 156V230" stroke="#222222" stroke-width="1.5"/>
+  <path d="M600 280V324" stroke="#222222" stroke-width="1.5"/>
+  <path d="M600 394V470" stroke="#222222" stroke-width="1.5"/>
+  <path d="M600 524V578" stroke="#222222" stroke-width="1.5"/>
+  <path d="M356 272L496 162" stroke="#222222" stroke-width="1.5"/>
+  <path d="M704 162L874 274" stroke="#222222" stroke-width="1.5"/>
+  <path d="M356 444L524 568" stroke="#222222" stroke-width="1.5"/>
+  <path d="M738 566L894 444" stroke="#222222" stroke-width="1.5"/>
+
+  <g fill="#FF1E15" font-family="'Noto Sans SC', 'Microsoft YaHei', sans-serif" font-weight="800">
+    <text x="247" y="124" font-size="28">竞争对手</text>
+    <text x="949" y="124" font-size="28">消费者</text>
+    <text x="257" y="616" font-size="28">合作伙伴</text>
+    <text x="984" y="588" font-size="28">员工</text>
+    <text x="189" y="378" font-size="62">产品</text>
+    <text x="548" y="378" font-size="62">渠道</text>
+  </g>
+
+  <g fill="#0AB45C" font-family="'Noto Sans SC', 'Microsoft YaHei', sans-serif" font-weight="800">
+    <text x="92" y="374" font-size="34">背景</text>
+    <text x="394" y="364" font-size="34">场景</text>
+    <text x="694" y="364" font-size="34">情景</text>
+    <text x="568" y="225" font-size="34">全景</text>
+    <text x="568" y="534" font-size="34">愿景</text>
+  </g>
+
+  <g fill="#1876C8" font-family="'Noto Sans SC', 'Microsoft YaHei', sans-serif" font-weight="800">
+    <text x="511" y="106" font-size="42">品牌传播</text>
+    <text x="912" y="360" font-size="42">品牌运营</text>
+    <text x="514" y="630" font-size="42">品牌建设</text>
+  </g>
+
+  <g fill="#74706A" font-family="'Noto Sans SC', 'Microsoft YaHei', sans-serif" font-size="14" font-weight="500">
+    <text x="177" y="408">用户需求、专利技术、成本优势</text>
+    <text x="208" y="438" font-size="16" font-weight="700">产品设计</text>
+
+    <text x="504" y="408">门面识别、墙面传播、桌面管理、界面交互</text>
+    <text x="551" y="438" font-size="16" font-weight="700">场景设计</text>
+
+    <text x="526" y="136">语言识别、视觉识别、服务识别</text>
+    <text x="562" y="166" font-size="16" font-weight="700">品牌设计</text>
+
+    <text x="936" y="390">社群运营、数字化、门店运营</text>
+    <text x="971" y="420" font-size="16" font-weight="700">服务设计</text>
+
+    <text x="490" y="660">品牌战略、流程设计、项目管理</text>
+    <text x="548" y="690" font-size="16" font-weight="700">组织设计</text>
+  </g>
+
+  <rect x="0" y="664" width="1200" height="56" fill="#D7D3CE"/>
+  <g fill="#101010">
+    <text x="34" y="704" font-family="'Noto Sans SC', 'Microsoft YaHei', sans-serif" font-size="18" font-weight="900">亚洲吃面公司</text>
+    <text x="34" y="718" font-family="Arial, sans-serif" font-size="12" font-weight="700">asia chimian company®</text>
+    <text x="246" y="704" font-family="Arial, sans-serif" font-size="10" font-weight="500">THIS WEBSITE AND ITS CONTENT IS COPYRIGHT OF ASIA CHIMIAN COMPANY.</text>
+    <text x="246" y="717" font-family="Arial, sans-serif" font-size="10" font-weight="500">ANY REDISTRIBUTION OR REPRODUCTION OF PART OR ALL OF THE CONTENTS IN ANY FORM IS PROHIBITED.</text>
+  </g>
+  <circle cx="1138" cy="694" r="22" stroke="#111111" stroke-width="5"/>
+  <path d="M1128 706L1148 684M1128 684H1148" stroke="#111111" stroke-width="4" stroke-linecap="round"/>
+</svg>

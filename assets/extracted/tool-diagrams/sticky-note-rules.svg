@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <rect width="1400" height="900" fill="#FAF6F0"/>
+  <text x="90" y="110" font-size="68" font-weight="700" fill="#1F1F1F" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">便利贴使用规则</text>
+  <text x="90" y="170" font-size="30" fill="#1F1F1F" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">让现场信息变得可摆放、可归类、可比较、可收束。</text>
+  <g transform="translate(150 260)" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" text-anchor="middle">
+    <rect x="0" y="0" width="260" height="220" rx="20" fill="#F7D8C7" stroke="#D7C8B5"/>
+    <text x="130" y="100" font-size="44" font-weight="700" fill="#1F1F1F">一张一意</text>
+    <text x="130" y="150" font-size="26" fill="#57504A">一张便利贴只写一个判断</text>
+    <rect x="330" y="0" width="260" height="220" rx="20" fill="#DCE7C5" stroke="#D7C8B5"/>
+    <text x="460" y="100" font-size="44" font-weight="700" fill="#1F1F1F">短句清楚</text>
+    <text x="460" y="150" font-size="26" fill="#57504A">写判断，不写长段口语</text>
+    <rect x="660" y="0" width="260" height="220" rx="20" fill="#DDEEFF" stroke="#D7C8B5"/>
+    <text x="790" y="100" font-size="44" font-weight="700" fill="#1F1F1F">便于归类</text>
+    <text x="790" y="150" font-size="26" fill="#57504A">方便后续聚合、比较、收束</text>
+  </g>
+  <g font-family="Microsoft YaHei, Noto Sans SC, sans-serif" fill="#1F1F1F">
+    <text x="180" y="620" font-size="34" font-weight="700">现场三条底线</text>
+    <text x="180" y="680" font-size="28">1. 先写清楚，再贴上去</text>
+    <text x="180" y="725" font-size="28">2. 归类时看关系，不只看数量</text>
+    <text x="180" y="770" font-size="28">3. 收束时优先留下判断，不只留下原话</text>
+  </g>
+</svg>

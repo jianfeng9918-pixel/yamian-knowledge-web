@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <rect width="1400" height="900" fill="#FAF6F0"/>
+  <text x="100" y="120" font-size="68" font-weight="700" fill="#1F1F1F" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">四面模块</text>
+  <text x="100" y="180" font-size="30" fill="#1F1F1F" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">把空间、门店和现场体验拆成四个关键面，帮助团队知道先修哪里。</text>
+  <g transform="translate(700 500)">
+    <rect x="-160" y="-160" width="320" height="320" rx="28" fill="#FFFFFF" stroke="#1F1F1F" stroke-width="6"/>
+    <line x1="0" y1="-220" x2="0" y2="220" stroke="#1F1F1F" stroke-width="5"/>
+    <line x1="-220" y1="0" x2="220" y2="0" stroke="#1F1F1F" stroke-width="5"/>
+    <g font-family="Microsoft YaHei, Noto Sans SC, sans-serif" text-anchor="middle" fill="#1F1F1F">
+      <text x="0" y="-250" font-size="38" font-weight="700">进入面</text>
+      <text x="0" y="-205" font-size="24">门头 / 第一识别 / 进入理由</text>
+      <text x="-290" y="10" font-size="38" font-weight="700">互动面</text>
+      <text x="-290" y="50" font-size="24">点单 / 陈列 / 服务提示</text>
+      <text x="0" y="295" font-size="38" font-weight="700">离场面</text>
+      <text x="0" y="335" font-size="24">打包 / 复购 / 传播延续</text>
+      <text x="290" y="10" font-size="38" font-weight="700">体验面</text>
+      <text x="290" y="50" font-size="24">现场感受 / 节奏 / 氛围</text>
+      <text x="0" y="15" font-size="46" font-weight="700" fill="#D94841">品牌主线</text>
+      <text x="0" y="70" font-size="24" fill="#5B5550">四个面都要围绕同一件事工作</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <rect width="1400" height="900" fill="#FAF6F0"/>
+  <text x="1090" y="110" font-size="60" font-weight="700" text-anchor="middle" fill="#FFFFFF" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" >组织的工作机制</text>
+  <rect x="840" y="40" width="440" height="95" rx="46" fill="#E5453E"/>
+  <text x="95" y="80" font-size="22" fill="#1F1F1F" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">来源：项目组合管理的层级关系，用于说明组织如何承接品牌与项目。</text>
+  <g stroke="#101010" stroke-width="8">
+    <polygon points="700,120 980,720 420,720" fill="none"/>
+    <line x1="560" y1="420" x2="840" y2="420"/>
+    <line x1="505" y1="300" x2="895" y2="300"/>
+    <line x1="645" y1="180" x2="755" y2="180"/>
+    <line x1="560" y1="720" x2="560" y2="420"/>
+  </g>
+  <g font-family="Microsoft YaHei, Noto Sans SC, sans-serif" text-anchor="middle" font-weight="700">
+    <polygon points="700,120 755,180 645,180" fill="#188BD3"/>
+    <polygon points="645,180 755,180 700,300 505,300" fill="#188BD3"/>
+    <polygon points="505,300 895,300 840,420 560,420" fill="#188BD3"/>
+    <polygon points="560,420 840,420 980,720 420,720" fill="#E5453E"/>
+    <polygon points="420,720 560,720 560,720 420,720" fill="#0EA152"/>
+    <polygon points="420,720 560,420 560,720" fill="#0EA152"/>
+    <polygon points="560,420 840,420 980,720 560,720" fill="#E5453E"/>
+    <rect x="300" y="760" width="800" height="80" fill="#0F0F10"/>
+    <text x="700" y="170" font-size="34" fill="#FFFFFF">愿景</text>
+    <text x="700" y="250" font-size="34" fill="#FFFFFF">使命</text>
+    <text x="700" y="365" font-size="34" fill="#FFFFFF">组织战略及目标</text>
+    <text x="700" y="530" font-size="34" fill="#FFFFFF">项目组合管理 / 项目集运营 / 项目规划与管理</text>
+    <text x="515" y="610" font-size="28" fill="#FFFFFF">运营管理</text>
+    <text x="515" y="650" font-size="28" fill="#FFFFFF">商业价值</text>
+    <text x="785" y="610" font-size="28" fill="#FFFFFF">项目管理创造商业价值</text>
+    <text x="785" y="650" font-size="28" fill="#FFFFFF">提升价值创造能力</text>
+    <text x="700" y="815" font-size="42" fill="#FFFFFF">组织资源</text>
+  </g>
+</svg>

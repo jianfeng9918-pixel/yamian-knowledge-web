@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <rect width="1400" height="900" fill="#FAF6F0"/>
+  <text x="90" y="110" font-size="68" font-weight="700" fill="#1F1F1F" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">商业设想漏斗</text>
+  <text x="90" y="170" font-size="30" fill="#1F1F1F" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">从很多设想里逐层收束，留下真正值得继续验证的方向。</text>
+  <g font-family="Microsoft YaHei, Noto Sans SC, sans-serif" text-anchor="middle">
+    <path d="M180 250 H1220 L1080 380 H320 Z" fill="#F7D8C7"/>
+    <path d="M320 380 H1080 L970 510 H430 Z" fill="#F3E0A4"/>
+    <path d="M430 510 H970 L860 640 H540 Z" fill="#DCE7C5"/>
+    <path d="M540 640 H860 L760 760 H640 Z" fill="#CFE6F3"/>
+    <text x="700" y="330" font-size="40" font-weight="700" fill="#1F1F1F">设想池</text>
+    <text x="700" y="370" font-size="24" fill="#57504A">先把所有方向摊开，不急着删</text>
+    <text x="700" y="455" font-size="40" font-weight="700" fill="#1F1F1F">品牌匹配</text>
+    <text x="700" y="495" font-size="24" fill="#57504A">看它是否符合品牌主线</text>
+    <text x="700" y="585" font-size="40" font-weight="700" fill="#1F1F1F">用户价值</text>
+    <text x="700" y="625" font-size="24" fill="#57504A">看它是否真的值得进入</text>
+    <text x="700" y="715" font-size="40" font-weight="700" fill="#1F1F1F">经营承接</text>
+    <text x="700" y="755" font-size="24" fill="#57504A">留下值得验证和推进的方向</text>
+  </g>
+</svg>

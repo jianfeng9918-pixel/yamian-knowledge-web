@@ -1,0 +1,140 @@
+window.KB_ASSETS = {
+  "brand-logo": {
+    "id": "brand-logo",
+    "title": "亚面 Logo",
+    "usage": "header logo",
+    "group": "identity",
+    "slot": "logo",
+    "sourceFile": "C:\\Users\\黄剑锋\\Desktop\\亚面知识内容\\2026亚面商务合作手册.pptx",
+    "entryName": "ppt/media/image1.jpeg",
+    "relativePath": "assets/extracted/brand-logo.jpeg",
+    "publicPath": "./assets/extracted/brand-logo.jpeg"
+  },
+  "hero-cover": {
+    "id": "hero-cover",
+    "title": "首页品牌信号图",
+    "usage": "home hero",
+    "group": "hero",
+    "slot": "home-cover",
+    "sourceFile": "C:\\Users\\黄剑锋\\Desktop\\亚面知识内容\\2026亚面商务合作手册.pptx",
+    "entryName": "ppt/media/image13.png",
+    "relativePath": "assets/extracted/hero-cover.png",
+    "publicPath": "./assets/extracted/hero-cover.png"
+  },
+  "company-profile": {
+    "id": "company-profile",
+    "title": "公司介绍与品牌气质图",
+    "usage": "brand content image",
+    "group": "content",
+    "slot": "company-profile",
+    "sourceFile": "C:\\Users\\黄剑锋\\Desktop\\亚面知识内容\\2026亚面商务合作手册.pptx",
+    "entryName": "ppt/media/image12.jpeg",
+    "relativePath": "assets/extracted/company-profile.jpeg",
+    "publicPath": "./assets/extracted/company-profile.jpeg"
+  },
+  "co-create-space": {
+    "id": "co-create-space",
+    "title": "共创空间图",
+    "usage": "co-create hero",
+    "group": "section",
+    "slot": "co-create-hero",
+    "sourceFile": "C:\\Users\\黄剑锋\\Desktop\\亚面知识内容\\(狐狸分享)亚面入职培训v05_201124.pptx",
+    "entryName": "ppt/media/image8.png",
+    "relativePath": "assets/extracted/co-create-space.png",
+    "publicPath": "./assets/extracted/co-create-space.png"
+  },
+  "brand-space": {
+    "id": "brand-space",
+    "title": "品牌空间与门店图",
+    "usage": "brand hero",
+    "group": "section",
+    "slot": "brand-hero",
+    "sourceFile": "C:\\Users\\黄剑锋\\Desktop\\亚面知识内容\\(狐狸分享)亚面入职培训v05_201124.pptx",
+    "entryName": "ppt/media/image9.png",
+    "relativePath": "assets/extracted/brand-space.png",
+    "publicPath": "./assets/extracted/brand-space.png"
+  },
+  "product-scene": {
+    "id": "product-scene",
+    "title": "产品现场图",
+    "usage": "product hero",
+    "group": "section",
+    "slot": "product-hero",
+    "sourceFile": "C:\\Users\\黄剑锋\\Desktop\\亚面知识内容\\(狐狸分享)亚面入职培训v05_201124.pptx",
+    "entryName": "ppt/media/image13.jpeg",
+    "relativePath": "assets/extracted/product-scene.jpeg",
+    "publicPath": "./assets/extracted/product-scene.jpeg"
+  },
+  "home-brand-spotlight": {
+    "id": "home-brand-spotlight",
+    "title": "首页品牌聚焦图",
+    "usage": "home content image",
+    "group": "content",
+    "slot": "home-brand",
+    "sourceId": "company-profile",
+    "sourceFile": "C:\\Users\\黄剑锋\\Desktop\\亚面知识内容\\2026亚面商务合作手册.pptx",
+    "entryName": "ppt/media/image12.jpeg",
+    "relativePath": "assets/extracted/company-profile.jpeg",
+    "publicPath": "./assets/extracted/company-profile.jpeg"
+  },
+  "home-cocreate-spotlight": {
+    "id": "home-cocreate-spotlight",
+    "title": "首页共创聚焦图",
+    "usage": "home content image",
+    "group": "content",
+    "slot": "home-co-create",
+    "sourceId": "co-create-space",
+    "sourceFile": "C:\\Users\\黄剑锋\\Desktop\\亚面知识内容\\(狐狸分享)亚面入职培训v05_201124.pptx",
+    "entryName": "ppt/media/image8.png",
+    "relativePath": "assets/extracted/co-create-space.png",
+    "publicPath": "./assets/extracted/co-create-space.png"
+  },
+  "home-product-spotlight": {
+    "id": "home-product-spotlight",
+    "title": "首页产品聚焦图",
+    "usage": "home content image",
+    "group": "content",
+    "slot": "home-product",
+    "sourceId": "product-scene",
+    "sourceFile": "C:\\Users\\黄剑锋\\Desktop\\亚面知识内容\\(狐狸分享)亚面入职培训v05_201124.pptx",
+    "entryName": "ppt/media/image13.jpeg",
+    "relativePath": "assets/extracted/product-scene.jpeg",
+    "publicPath": "./assets/extracted/product-scene.jpeg"
+  },
+  "brand-section-detail": {
+    "id": "brand-section-detail",
+    "title": "品牌板块内容图",
+    "usage": "section content image",
+    "group": "content",
+    "slot": "brand-section-detail",
+    "sourceId": "brand-space",
+    "sourceFile": "C:\\Users\\黄剑锋\\Desktop\\亚面知识内容\\(狐狸分享)亚面入职培训v05_201124.pptx",
+    "entryName": "ppt/media/image9.png",
+    "relativePath": "assets/extracted/brand-space.png",
+    "publicPath": "./assets/extracted/brand-space.png"
+  },
+  "co-create-section-detail": {
+    "id": "co-create-section-detail",
+    "title": "共创板块内容图",
+    "usage": "section content image",
+    "group": "content",
+    "slot": "co-create-section-detail",
+    "sourceId": "co-create-space",
+    "sourceFile": "C:\\Users\\黄剑锋\\Desktop\\亚面知识内容\\(狐狸分享)亚面入职培训v05_201124.pptx",
+    "entryName": "ppt/media/image8.png",
+    "relativePath": "assets/extracted/co-create-space.png",
+    "publicPath": "./assets/extracted/co-create-space.png"
+  },
+  "product-section-detail": {
+    "id": "product-section-detail",
+    "title": "产品板块内容图",
+    "usage": "section content image",
+    "group": "content",
+    "slot": "product-section-detail",
+    "sourceId": "product-scene",
+    "sourceFile": "C:\\Users\\黄剑锋\\Desktop\\亚面知识内容\\(狐狸分享)亚面入职培训v05_201124.pptx",
+    "entryName": "ppt/media/image13.jpeg",
+    "relativePath": "assets/extracted/product-scene.jpeg",
+    "publicPath": "./assets/extracted/product-scene.jpeg"
+  }
+};

@@ -447,7 +447,7 @@
   function renderDocCard(doc, options = {}) {
     const kicker = docLabel(doc, options.kicker);
     const cta = options.cta || UI.enterDoc;
-    const summary = clipText(doc.shortExcerpt || doc.excerpt || "", options.maxChars || 92);
+    const summary = clipText(doc.shortExcerpt || doc.excerpt || "", options.maxChars || 74);
     return `
       <article class="doc-card">
         <div class="doc-card-head">
@@ -472,7 +472,7 @@
     const assetUrl = item.assetId ? getAssetUrl(item.assetId) : "";
     const style = assetUrl ? `style="--card-image:url('${escapeHtml(assetUrl)}')"` : "";
     const largeClass = index < 2 ? " large" : "";
-    const summary = clipText(item.blurb || doc.shortExcerpt || doc.excerpt || "", index < 2 ? 86 : 68);
+    const summary = clipText(item.blurb || doc.shortExcerpt || doc.excerpt || "", index < 2 ? 68 : 56);
     return `
       <article class="highlight-card${largeClass}${assetUrl ? " has-media" : ""}" ${style}>
         ${assetUrl ? `<div class="highlight-card-media"></div>` : ""}
@@ -714,6 +714,7 @@
     const gridClass = options.gridClass || "card-grid";
     const variantClass = options.variant ? ` ${options.variant}` : "";
     const cta = options.cta || UI.enterDoc;
+    const maxChars = options.maxChars || 72;
     return `
       <section class="section-group${variantClass}">
         <div class="group-head">
@@ -724,7 +725,7 @@
           </div>
         </div>
         <div class="${gridClass}">
-          ${group.docs.map((doc) => renderDocCard(doc, { kicker: group.title, cta, maxChars: options.maxChars || 92 })).join("")}
+          ${group.docs.map((doc) => renderDocCard(doc, { kicker: group.title, cta, maxChars })).join("")}
         </div>
       </section>
     `;
@@ -742,7 +743,7 @@
       <a class="journey-doc" href="${routeForDoc(doc.id)}">
         <span class="journey-doc-kicker">${escapeHtml(humanizeSegment(doc.folderKey || ""))}</span>
         <strong>${escapeHtml(doc.title)}</strong>
-        <p>${escapeHtml(doc.shortExcerpt || doc.excerpt || "")}</p>
+        <p>${escapeHtml(clipText(doc.shortExcerpt || doc.excerpt || "", 72))}</p>
       </a>
     `;
   }
@@ -1409,10 +1410,15 @@
     return String(html || "").replace(
       /<p>\s*(<img\b[^>]*alt="([^"]*)"[^>]*>)\s*<\/p>/gi,
       function (_match, imageTag, altText) {
+        const srcMatch = imageTag.match(/\bsrc="([^"]+)"/i);
+        const imageSrc = srcMatch ? srcMatch[1] : "";
+        const wrappedImage = imageSrc
+          ? `<a class="doc-figure-link" href="${escapeHtml(imageSrc)}" target="_blank" rel="noreferrer">${imageTag}</a>`
+          : imageTag;
         const caption = altText && altText.trim()
           ? `<figcaption>${escapeHtml(altText.trim())}</figcaption>`
           : "";
-        return `<figure class="doc-figure"><div class="doc-figure-viewport">${imageTag}</div>${caption}</figure>`;
+        return `<figure class="doc-figure"><div class="doc-figure-viewport">${wrappedImage}</div>${caption}</figure>`;
       }
     );
   }

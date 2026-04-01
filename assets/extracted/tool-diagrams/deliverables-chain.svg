@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" fill="none">
+  <rect width="1200" height="700" rx="28" fill="#F7F1EB"/>
+  <text x="72" y="84" fill="#A14C2F" font-size="28" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">关键成果物链条</text>
+  <text x="72" y="122" fill="#564A42" font-size="16" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">让工作坊、工具和判断真正进入下一步工作的中间层</text>
+  <g font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">
+    <rect x="72" y="176" width="210" height="110" rx="22" fill="#FFFDF9" stroke="#E0D4C7"/>
+    <text x="104" y="216" fill="#2F2A26" font-size="24">项目任务书</text>
+    <text x="104" y="250" fill="#7A6E65" font-size="15">把问题、目标、角色和边界写清</text>
+    <text x="104" y="274" fill="#7A6E65" font-size="15">让项目从一开始就在同一张图上</text>
+
+    <rect x="348" y="176" width="230" height="110" rx="22" fill="#FFFDF9" stroke="#E0D4C7"/>
+    <text x="380" y="216" fill="#2F2A26" font-size="24">商业设想报告</text>
+    <text x="380" y="250" fill="#7A6E65" font-size="15">收束商业机会、方向与阶段优先级</text>
+    <text x="380" y="274" fill="#7A6E65" font-size="15">把发现阶段送进定义阶段</text>
+
+    <rect x="644" y="176" width="230" height="110" rx="22" fill="#FFFDF9" stroke="#E0D4C7"/>
+    <text x="676" y="216" fill="#2F2A26" font-size="24">识别与场景报告</text>
+    <text x="676" y="250" fill="#7A6E65" font-size="15">传播识别塔、消费场景报告</text>
+    <text x="676" y="274" fill="#7A6E65" font-size="15">把价值主线翻译成可被感知的结构</text>
+
+    <rect x="940" y="176" width="188" height="110" rx="22" fill="#FFFDF9" stroke="#E0D4C7"/>
+    <text x="972" y="216" fill="#2F2A26" font-size="24">原型与测试</text>
+    <text x="972" y="250" fill="#7A6E65" font-size="15">关键触点原型、领航原型门店</text>
+    <text x="972" y="274" fill="#7A6E65" font-size="15">把概念带进现实验证</text>
+
+    <rect x="160" y="400" width="250" height="124" rx="24" fill="#FFFDF9" stroke="#E0D4C7"/>
+    <text x="192" y="442" fill="#2F2A26" font-size="24">单店盈利模型</text>
+    <text x="192" y="476" fill="#7A6E65" font-size="15">把价值、门店模型与经营承接放到一起看</text>
+    <text x="192" y="500" fill="#7A6E65" font-size="15">让“品牌成立”能被现实经营接住</text>
+
+    <rect x="474" y="400" width="250" height="124" rx="24" fill="#FFFDF9" stroke="#E0D4C7"/>
+    <text x="506" y="442" fill="#2F2A26" font-size="24">BSIS 服务识别手册</text>
+    <text x="506" y="476" fill="#7A6E65" font-size="15">把服务可视化、可识别、可复制</text>
+    <text x="506" y="500" fill="#7A6E65" font-size="15">把品牌价值稳定带进运营与培训</text>
+
+    <rect x="788" y="400" width="250" height="124" rx="24" fill="#FFFDF9" stroke="#E0D4C7"/>
+    <text x="820" y="442" fill="#2F2A26" font-size="24">项目复盘表</text>
+    <text x="820" y="476" fill="#7A6E65" font-size="15">判断哪些动作被验证，哪些仍待调整</text>
+    <text x="820" y="500" fill="#7A6E65" font-size="15">把经验送回知识库继续复用</text>
+  </g>
+  <g stroke="#C8B7A7" stroke-width="4" stroke-linecap="round">
+    <path d="M282 231H348"/>
+    <path d="M578 231H644"/>
+    <path d="M874 231H940"/>
+    <path d="M1034 286V334H913V400"/>
+    <path d="M759 286V334H599V400"/>
+    <path d="M463 286V334H285V400"/>
+  </g>
+  <text x="72" y="618" fill="#564A42" font-size="16" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">读图提醒：成果物不是项目附件，而是让判断从现场进入系统、从系统进入落地、从落地重新回到复盘的中间层。</text>
+</svg>

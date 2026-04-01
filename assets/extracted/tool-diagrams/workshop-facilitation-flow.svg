@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" fill="none">
+  <rect width="1200" height="640" rx="28" fill="#F7F1EB"/>
+  <text x="72" y="84" fill="#A14C2F" font-size="26" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">工作坊现场推进链</text>
+  <text x="72" y="124" fill="#564A42" font-size="16" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">从开场、铺信息、收判断到形成可继续推进的结果</text>
+  <line x1="140" y1="230" x2="1060" y2="230" stroke="#D6C8BC" stroke-width="6" stroke-linecap="round"/>
+  <g font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif" text-anchor="middle">
+    <circle cx="160" cy="230" r="54" fill="#B85C38"/>
+    <text x="160" y="238" fill="#FFF8F3" font-size="28">开场</text>
+    <text x="160" y="330" fill="#2F2A26" font-size="18">讲清目标与边界</text>
+    <text x="160" y="360" fill="#7A6E65" font-size="14">不是热身，而是统一问题</text>
+
+    <circle cx="360" cy="230" r="54" fill="#DB8B64"/>
+    <text x="360" y="238" fill="#FFF8F3" font-size="28">铺平</text>
+    <text x="360" y="330" fill="#2F2A26" font-size="18">把信息摆到同一张桌子</text>
+    <text x="360" y="360" fill="#7A6E65" font-size="14">外部变化、内部现状、真实限制</text>
+
+    <circle cx="560" cy="230" r="54" fill="#D0A847"/>
+    <text x="560" y="238" fill="#FFF8F3" font-size="28">发散</text>
+    <text x="560" y="330" fill="#2F2A26" font-size="18">让不同角色把信息讲出来</text>
+    <text x="560" y="360" fill="#7A6E65" font-size="14">先看见，再比较</text>
+
+    <circle cx="760" cy="230" r="54" fill="#6B9F8A"/>
+    <text x="760" y="238" fill="#FFF8F3" font-size="28">收束</text>
+    <text x="760" y="330" fill="#2F2A26" font-size="18">压成少数关键判断</text>
+    <text x="760" y="360" fill="#7A6E65" font-size="14">问题、优先级、边界</text>
+
+    <circle cx="960" cy="230" r="54" fill="#4F7C73"/>
+    <text x="960" y="238" fill="#FFF8F3" font-size="28">转译</text>
+    <text x="960" y="330" fill="#2F2A26" font-size="18">形成成果物与下一步动作</text>
+    <text x="960" y="360" fill="#7A6E65" font-size="14">不是结束，而是进入推进链</text>
+  </g>
+  <g font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">
+    <rect x="80" y="438" width="1040" height="126" rx="24" fill="#FFFDF9" stroke="#E7DCD2"/>
+    <text x="112" y="482" fill="#2F2A26" font-size="20">引导师现场要盯住的 4 件事</text>
+    <text x="112" y="520" fill="#564A42" font-size="16">1. 当前大家在回答同一个问题吗</text>
+    <text x="408" y="520" fill="#564A42" font-size="16">2. 现在是在发散，还是应该开始收束</text>
+    <text x="112" y="552" fill="#564A42" font-size="16">3. 这一轮结束后留下了什么判断</text>
+    <text x="408" y="552" fill="#564A42" font-size="16">4. 下一步会进入哪个成果物或动作</text>
+  </g>
+</svg>

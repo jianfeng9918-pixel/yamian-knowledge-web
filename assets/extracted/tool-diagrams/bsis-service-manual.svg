@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" fill="none">
+  <rect width="1200" height="640" rx="28" fill="#F7F1EB"/>
+  <text x="72" y="84" fill="#A14C2F" font-size="28" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">BSIS 服务识别手册</text>
+  <text x="72" y="122" fill="#564A42" font-size="16" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">让服务体验从“靠人记住”变成“可识别、可复制、可训练、可迭代”</text>
+  <g font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif" text-anchor="middle">
+    <circle cx="600" cy="320" r="92" fill="#B85C38"/>
+    <text x="600" y="312" fill="#FFF8F3" font-size="28">BSIS</text>
+    <text x="600" y="348" fill="#FFF8F3" font-size="16">Brand &amp; Service Identity System</text>
+
+    <circle cx="360" cy="210" r="78" fill="#FFFDF9" stroke="#D9CDBF" stroke-width="3"/>
+    <text x="360" y="202" fill="#2F2A26" font-size="24">服务可识别</text>
+    <text x="360" y="236" fill="#7A6E65" font-size="15">让体验有一致感</text>
+
+    <circle cx="860" cy="210" r="78" fill="#FFFDF9" stroke="#D9CDBF" stroke-width="3"/>
+    <text x="860" y="202" fill="#2F2A26" font-size="24">语言可识别</text>
+    <text x="860" y="236" fill="#7A6E65" font-size="15">让说法和服务一致</text>
+
+    <circle cx="360" cy="444" r="78" fill="#FFFDF9" stroke="#D9CDBF" stroke-width="3"/>
+    <text x="360" y="436" fill="#2F2A26" font-size="24">视觉可识别</text>
+    <text x="360" y="470" fill="#7A6E65" font-size="15">让触点看起来像同一件事</text>
+
+    <circle cx="860" cy="444" r="78" fill="#FFFDF9" stroke="#D9CDBF" stroke-width="3"/>
+    <text x="860" y="436" fill="#2F2A26" font-size="24">可训练可复制</text>
+    <text x="860" y="470" fill="#7A6E65" font-size="15">让门店和组织接得住</text>
+  </g>
+  <g stroke="#C8B7A7" stroke-width="4" stroke-linecap="round">
+    <path d="M446 246L522 280"/>
+    <path d="M754 280L780 246"/>
+    <path d="M446 394L522 360"/>
+    <path d="M754 360L780 394"/>
+  </g>
+</svg>

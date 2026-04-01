@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" fill="none">
+  <rect width="1200" height="620" rx="28" fill="#F7F1EB"/>
+  <text x="72" y="84" fill="#A14C2F" font-size="28" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">关键触点原型</text>
+  <text x="72" y="122" fill="#564A42" font-size="16" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">用最小成本验证一个关键接触点是否真的在表达品牌价值</text>
+  <g font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif" text-anchor="middle">
+    <rect x="90" y="188" width="220" height="146" rx="24" fill="#FFFDF9" stroke="#E0D4C7"/>
+    <text x="200" y="244" fill="#2F2A26" font-size="26">选触点</text>
+    <text x="200" y="278" fill="#7A6E65" font-size="15">选一个最影响进入判断的点</text>
+    <text x="200" y="304" fill="#7A6E65" font-size="15">不要一次原型太多东西</text>
+
+    <rect x="360" y="188" width="220" height="146" rx="24" fill="#FFFDF9" stroke="#E0D4C7"/>
+    <text x="470" y="244" fill="#2F2A26" font-size="26">做最小版本</text>
+    <text x="470" y="278" fill="#7A6E65" font-size="15">只做足以被体验和被判断的部分</text>
+    <text x="470" y="304" fill="#7A6E65" font-size="15">重点看“有没有被读懂”</text>
+
+    <rect x="630" y="188" width="220" height="146" rx="24" fill="#FFFDF9" stroke="#E0D4C7"/>
+    <text x="740" y="244" fill="#2F2A26" font-size="26">测关键问题</text>
+    <text x="740" y="278" fill="#7A6E65" font-size="15">用户有没有理解、愿不愿意进入</text>
+    <text x="740" y="304" fill="#7A6E65" font-size="15">不要只问喜不喜欢</text>
+
+    <rect x="900" y="188" width="210" height="146" rx="24" fill="#FFFDF9" stroke="#E0D4C7"/>
+    <text x="1005" y="244" fill="#2F2A26" font-size="26">回到系统</text>
+    <text x="1005" y="278" fill="#7A6E65" font-size="15">判断问题属于产品、传播</text>
+    <text x="1005" y="304" fill="#7A6E65" font-size="15">还是场景与运营接口</text>
+  </g>
+  <g stroke="#C8B7A7" stroke-width="4" stroke-linecap="round">
+    <path d="M310 261H360"/>
+    <path d="M580 261H630"/>
+    <path d="M850 261H900"/>
+  </g>
+  <g font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">
+    <rect x="90" y="408" width="1020" height="126" rx="24" fill="#FFFDF9" stroke="#E0D4C7"/>
+    <text x="122" y="450" fill="#2F2A26" font-size="20">最常见的错误</text>
+    <text x="122" y="488" fill="#564A42" font-size="16">1. 一次把整个门店或整套视觉全做出来，成本太高，信息反而混乱</text>
+    <text x="122" y="518" fill="#564A42" font-size="16">2. 测完只收“喜欢/不喜欢”，没有追问用户读到了什么、为什么会进入或放弃</text>
+  </g>
+</svg>

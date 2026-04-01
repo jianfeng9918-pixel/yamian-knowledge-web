@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" fill="none">
+  <rect width="1200" height="640" rx="28" fill="#F7F1EB"/>
+  <text x="72" y="84" fill="#A14C2F" font-size="28" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">单店盈利模型</text>
+  <text x="72" y="122" fill="#564A42" font-size="16" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">把品牌主线、门店模型、客单结构和经营承接放到一张图上看</text>
+  <g font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">
+    <rect x="84" y="182" width="276" height="138" rx="24" fill="#FFFDF9" stroke="#E0D4C7"/>
+    <text x="116" y="226" fill="#2F2A26" font-size="24">进入理由</text>
+    <text x="116" y="260" fill="#7A6E65" font-size="15">用户为什么要来</text>
+    <text x="116" y="286" fill="#7A6E65" font-size="15">核心产品 / 场景 / 信任理由</text>
+
+    <rect x="462" y="182" width="276" height="138" rx="24" fill="#FFFDF9" stroke="#E0D4C7"/>
+    <text x="494" y="226" fill="#2F2A26" font-size="24">交易结构</text>
+    <text x="494" y="260" fill="#7A6E65" font-size="15">客单、复购、翻台、组合率</text>
+    <text x="494" y="286" fill="#7A6E65" font-size="15">不是只看卖了多少，而是怎么卖成的</text>
+
+    <rect x="840" y="182" width="276" height="138" rx="24" fill="#FFFDF9" stroke="#E0D4C7"/>
+    <text x="872" y="226" fill="#2F2A26" font-size="24">经营承接</text>
+    <text x="872" y="260" fill="#7A6E65" font-size="15">动线、出品、门店节奏、服务效率</text>
+    <text x="872" y="286" fill="#7A6E65" font-size="15">把品牌价值接成现实利润</text>
+
+    <rect x="250" y="408" width="700" height="126" rx="26" fill="#FFFDF9" stroke="#D9CDBF"/>
+    <text x="600" y="450" fill="#2F2A26" font-size="26" text-anchor="middle">单店盈利模型的核心，不是财务表，而是“品牌价值如何被门店持续兑现”</text>
+    <text x="600" y="486" fill="#7A6E65" font-size="16" text-anchor="middle">进入理由站不住，交易结构就会脆；交易结构不健康，经营承接再努力也只是补漏洞</text>
+  </g>
+  <g stroke="#C8B7A7" stroke-width="4" stroke-linecap="round">
+    <path d="M360 251H462"/>
+    <path d="M738 251H840"/>
+  </g>
+</svg>
